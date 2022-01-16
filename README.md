@@ -1,7 +1,7 @@
 ### Hi! my name is Maiquel Knechtel 👋
 
 - 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: maiquelknechtel@gmail.com
+
 <!--
 **knechtel/knechtel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
