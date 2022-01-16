@@ -1,8 +1,8 @@
 ### Hi! my name is Maiquel Knechtel 👋
 
 - 🌱 I’m currently learning Kotlin, linux(about that i recently make a test for Linux essentials and pass with score 750)
-- Feel free to write email in this page you have my contact
-
+- Feel free to write an email in this page you have my contact
+- And one more thing I'm passionate about code, music and leanguage like English and Portuguese, code Ahm! i like Python, Kotlin, C and JAVA which was a passion from my twenty years, my first expierence was in 2007. Lets code anyway by now you have a view of my intent .
 <!--
 **knechtel/knechtel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
