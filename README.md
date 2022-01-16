@@ -1,4 +1,4 @@
-### Hi my name is Maiquel Knechtel 👋
+### Hi! my name is Maiquel Knechtel 👋
 
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: maiquelknechtel@gmail.com
